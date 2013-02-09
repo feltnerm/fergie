@@ -1,15 +1,14 @@
 {
-  "name": "bassradio-frontend",
+  "name": "fergie",
   "description": "Sleek, intuitive, and powerful front-end to one's music library",
   "version": "0.0.1",
   "author": "Mark Feltner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/feltnerm/bassradio-frontend"
+    "url": "https://github.com/feltnerm/fergie"
   },
   "dependencies": {
     "uglify-js": "~2.2.4",
-    "coffee-script": "~1.4.0",
     "jshint": "~0.9.1",
     "bower": "~0.7.0",
     "requirejs": "~2.1.4"
